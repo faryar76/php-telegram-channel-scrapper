@@ -7,7 +7,8 @@ class TlgScrapper
     protected $rawContent;
     protected $client;
     protected $patterns=[
-        'name'=>'/<div class="tgme_header_title">(.*?)<\/div>/is'
+        'name'=>'/<div class="tgme_header_title">(.*?)<\/div>/is',
+        'count_memmber'=>'/<span class="counter_value">(.*?)<\/span> <span class="counter_type">members<\/span>/is'
     ];
     public function __construct()
     {
@@ -24,9 +25,13 @@ class TlgScrapper
     {
         return $this->preg('name')[1];
     }
+    public function getMemmberCount()
+    {
+        return $this->preg('count_memmber')[1];
+    }
     public function preg($key)
     {
-        preg_match($this->patterns['name'],$this->rawContent->getContents(),$matches);
+        preg_match($this->patterns[$key],$this->rawContent->getContents(),$matches);
         return $matches; 
     }
 }
