@@ -1,0 +1,21 @@
+{
+    "name": "faryar76/php-telegram-channel-scraper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "faryar76",
+            "email": "faryar76@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Faryar76\\":"app/"
+        }
+    }
+}
