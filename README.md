@@ -10,6 +10,9 @@ composer require faryar76/php-telegram-scrapper
 ##### create instance from main class
 
 ```
+require __DIR__."/vendor/autoload.php";
+use Faryar76\TlgScrapper;
+
 $tlg=new TlgScrapper();
 $tlg->load('a-telegram-channel-username');
 ```
