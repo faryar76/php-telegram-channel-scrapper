@@ -1,6 +1,7 @@
 <?php
 
 namespace Faryar76;
+use Faryar76\Message;
 use GuzzleHttp\Client;
 class TlgScrapper
 {
@@ -82,11 +83,11 @@ class TlgScrapper
         // get viws
         $view='/class="tgme_widget_message_views">(.*?)<\/span>/ms';
         preg_match($view,$message,$res);
-        $result['view']=$res[1] ?? "";
+        $result['views']=$res[1] ?? "";
         // text
         $text='/class="tgme_widget_message_text js-message_text".*?>(.*?)<\/div>/is';
         preg_match($text,$message,$res);
         $result['text']=strip_tags(trim(preg_replace('/\s\s+/', ' ', html_entity_decode($res[1]??"",ENT_QUOTES))));
-        return $result;
+        return new Message($result);
     }
 }
