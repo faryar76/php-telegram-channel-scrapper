@@ -14,7 +14,8 @@ class TlgScrapper
         'count_video'=>'/photos.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">videos<\/span>/is',
         'count_photo'=>'/members.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">photos<\/span>/is',
         'description'=>'/  <meta name="twitter:description" content="(.*?)">/is',
-        'bubbles'=>'/(<div class="tgme_widget_message_wrap js-widget_message_wrap.*?">.*?datetime.*?<\/div>)/ms'
+        'bubbles'=>'/(<div class="tgme_widget_message_wrap js-widget_message_wrap.*?">.*?datetime.*?<\/div>)/ms',
+        'image'=>'/<meta property="og:image" content="(.*?)">/is'
     ];
     public function __construct($httpClient=null)
     {
@@ -30,6 +31,7 @@ class TlgScrapper
         $username=$this->normalizer->username($username);
         $url=sprintf('https://t.me/s/%s',$username);
         $this->rawContent=$this->client->get($url)->getBody()->getContents();
+        return $this;
     }
     public function getName()
     {
@@ -54,6 +56,10 @@ class TlgScrapper
     public function getPhotoCount()
     {
         return $this->preg('count_photo')[1];
+    }
+    public function getImage()
+    {
+        return $this->preg('image')[1];
     }
     public function getMessages()
     {

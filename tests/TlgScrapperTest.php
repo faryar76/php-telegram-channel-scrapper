@@ -120,4 +120,14 @@ class TlgScrapperTest extends TestCase
         $message->id=10;
         $this->assertEquals(10,$message->id);
     }
+     /**
+     * @test
+     */
+    public function test_must_return_image_of_page()
+    {
+        $this->main->load('@telegram');
+        $image=$this->main->getImage();
+        print_r($image);
+        $this->assertTrue(true);
+    }
 }
