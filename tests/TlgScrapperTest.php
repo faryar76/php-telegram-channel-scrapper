@@ -127,7 +127,6 @@ class TlgScrapperTest extends TestCase
     {
         $this->main->load('@telegram');
         $image=$this->main->getImage();
-        print_r($image);
         $this->assertTrue(true);
     }
 }
