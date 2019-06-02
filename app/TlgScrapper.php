@@ -40,11 +40,11 @@ class TlgScrapper
         $this->prepareChannelContent();
         return $this;
     }
-    public function prepareChannelContent()
+    protected function prepareChannelContent()
     {
         foreach ($this->channel_info_patterns as $key => $value) {
             preg_match($this->channel_info_patterns[$key],$this->rawContent,$matches);
-            $this->info[$key]=$matches[1];
+            $this->info[$key]=$matches[1] ?? '';
         }
     }
     public function __call($method,$params)
