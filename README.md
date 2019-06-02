@@ -30,7 +30,7 @@ $tlg->getPhotocount();    // channel photos count
 ```php
 $tlg->getMessages();
 ```
-#### for get a posts with id
+#### for get a posts with post_id
 ```php
 $tlg->getMessages(25);
 ```
