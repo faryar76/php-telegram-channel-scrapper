@@ -16,6 +16,10 @@ class Message implements ArrayAccess
     {
         return isset($this->data[$key]) ? $this->data[$key] : null;
     }
+    public function __isset($key)
+    {
+        return isset($this->data[$key]);
+    }
     public function __set($key,$value)
     {
         $this->data[$key]=$value;
