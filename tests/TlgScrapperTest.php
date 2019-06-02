@@ -7,6 +7,7 @@ use GuzzleHttp\Psr7\Response;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
 use Faryar76\Collection;
+use Faryar76\Message;
 /**
  * ClassNameTest
  * @group group
@@ -67,10 +68,29 @@ class TlgScrapperTest extends TestCase
         $this->assertInstanceOf(Collection::class,$this->main->getMessages());
     }
     /** @test */
+    public function test_must_return_instance_of_message()
+    {
+        $this->main->load('@telegram');
+        $this->assertInstanceOf(Message::class,$this->main->getMessages()[0]);
+    }
+    
+    /** @test */
     public function test_must_get_page_messages()
     {
         $this->main->load('@telegram');
         $this->assertCount(20,$this->main->getMessages());
+    }
+    /** @test */
+    public function test_must_get_page_message_as_array()
+    {
+        $this->main->load('@telegram');
+        $this->assertIsArray($this->main->getMessages()[0]->toArray());
+    }
+    /** @test */
+    public function test_must_get_page_messages_as_array()
+    {
+        $this->main->load('@telegram');
+        $this->assertIsArray($this->main->getMessages()->toArray());
     }
     /**
      * @test
@@ -81,9 +101,23 @@ class TlgScrapperTest extends TestCase
         $message=$this->main->getMessages()[0];
         $this->assertEquals('2018-02-01T18:09:24+00:00',$message['date']['date']);
         $this->assertEquals(1517508564,$message['date']['unix']);
-        $this->assertEquals('3.7M',$message['view']);
+        $this->assertEquals('3.7M',$message['views']);
         $this->assertEquals("Here's a video demo to give you a taste of Telegram X for Android.",$message['text']);
         $this->assertEquals(90,$message['id']);
-        print_r($this->main->getMessages());
+    }
+    /**
+     * @test
+     */
+    public function test_must_return_parsed_bubble_as_object()
+    {
+        $this->main->load('@telegram');
+        $message=$this->main->getMessages()[0];
+        $this->assertEquals('2018-02-01T18:09:24+00:00',$message->date['date']);
+        $this->assertEquals(1517508564,$message->date['unix']);
+        $this->assertEquals('3.7M',$message->views);
+        $this->assertEquals("Here's a video demo to give you a taste of Telegram X for Android.",$message->text);
+        $this->assertEquals(90,$message->id);
+        $message->id=10;
+        $this->assertEquals(10,$message->id);
     }
 }
