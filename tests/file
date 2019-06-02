@@ -1,0 +1,1132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Telegram News – Telegram</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="format-detection" content="telephone=no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="MobileOptimized" content="176" />
+  <meta name="HandheldFriendly" content="True" />
+
+  <meta property="og:title" content="Telegram News">
+  <meta property="og:image" content="https://cdn1.telesco.pe/file/S6HHusZR4xthQZQ2-_9BtXW__YyvnfRkw8t7MyxLn4VrNXWZlCQmXk9Dz9BjUSl1H_vlCmeGVWF5C8zMeYlX5xysVBrLLfsHwqlk36y2WENBs5lHihadQxvdK97wfYexBcVn4YRUGKsREqhrZd4XTySbV0TM0Loh7yFThtuNMyU1QskpvDN2hLTwi7qbkCDtO9lhT3wt1ZUn1QboeYaoA2bL02bb-1XQcrArTULQDPLrXpqhgMDTWs9j1rxfpuh7DN8GuiOd8h_t3cYXA85OFDj9iYSP7cs3o7fjwyU3EP8tR-M7RXESroRE3OzYjhldJM_tCypHmUfDOeTxHwKA3g.jpg">
+  <meta property="og:site_name" content="Telegram">
+  <meta property="og:description" content="The official Telegram on Telegram. Much recursion. Very Telegram. Wow.">
+
+  <meta property="twitter:title" content="Telegram News">
+  <meta property="twitter:image" content="https://cdn1.telesco.pe/file/S6HHusZR4xthQZQ2-_9BtXW__YyvnfRkw8t7MyxLn4VrNXWZlCQmXk9Dz9BjUSl1H_vlCmeGVWF5C8zMeYlX5xysVBrLLfsHwqlk36y2WENBs5lHihadQxvdK97wfYexBcVn4YRUGKsREqhrZd4XTySbV0TM0Loh7yFThtuNMyU1QskpvDN2hLTwi7qbkCDtO9lhT3wt1ZUn1QboeYaoA2bL02bb-1XQcrArTULQDPLrXpqhgMDTWs9j1rxfpuh7DN8GuiOd8h_t3cYXA85OFDj9iYSP7cs3o7fjwyU3EP8tR-M7RXESroRE3OzYjhldJM_tCypHmUfDOeTxHwKA3g.jpg">
+  <meta property="twitter:site" content="@Telegram">
+
+  <meta property="al:ios:app_store_id" content="686449807">
+  <meta property="al:ios:app_name" content="Telegram Messenger">
+  <meta property="al:ios:url" content="tg://resolve?domain=telegram">
+
+  <meta property="al:android:url" content="tg://resolve?domain=telegram">
+  <meta property="al:android:app_name" content="Telegram">
+  <meta property="al:android:package" content="org.telegram.messenger">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@Telegram">
+  <meta name="twitter:description" content="The official Telegram on Telegram. Much recursion. Very Telegram. Wow.
+">
+
+  <link rel="prev" href="/s/telegram?before=90">
+  <link rel="canonical" href="/s/telegram?before=112">
+
+  <link rel="shortcut icon" href="//telegram.org/favicon.ico?3" type="image/x-icon" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet" type="text/css">
+  <link href="//telegram.org/css/widget-frame.css?20" rel="stylesheet" media="screen">
+  <link href="//telegram.org/css/telegram-web.css?9" rel="stylesheet" media="screen">
+</head>
+
+<body class="widget_frame_base tgme_widget emoji_image thin_box_shadow no_transitions">
+  <header class="tgme_header search_collapsed">
+    <div class="tgme_container">
+      <div class="tgme_header_search">
+        <form class="tgme_header_search_form" action="/s/telegram">
+          <svg class="tgme_header_search_form_icon" width="20px" height="20px" viewBox="0 0 20 20">
+            <g fill="none" stroke="#788794" stroke-width="1.4">
+              <circle cx="9" cy="9" r="6"></circle>
+              <path d="M13.5,13.5 L17,17" stroke-linecap="round"></path>
+            </g>
+          </svg>
+          <input class="tgme_header_search_form_input js-header_search" placeholder="Search" name="q" autocomplete="off"
+            value="" />
+        </form>
+      </div>
+      <div class="tgme_header_right_column">
+        <section class="tgme_right_column">
+          <div class="tgme_channel_info">
+            <div class="tgme_channel_info_header">
+              <i class="tgme_page_photo_image bgcolor4" data-content="TN"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i>
+              <div class="tgme_channel_info_header_title"><span dir="auto">Telegram News</span><i class="verified-icon">
+                  ✔</i></div>
+              <div class="tgme_channel_info_header_username"><a href="https://t.me/telegram">@telegram</a></div>
+            </div>
+            <div class="tgme_channel_info_counters">
+              <div class="tgme_channel_info_counter"><span class="counter_value">2.8M</span> <span class="counter_type">members</span></div>
+              <div class="tgme_channel_info_counter"><span class="counter_value">6</span> <span class="counter_type">photos</span></div>
+              <div class="tgme_channel_info_counter"><span class="counter_value">3</span> <span class="counter_type">videos</span></div>
+              <div class="tgme_channel_info_counter"><span class="counter_value">56</span> <span class="counter_type">links</span></div>
+            </div>
+            <div class="tgme_channel_info_description">The official Telegram on Telegram. Much recursion. Very
+              Telegram. Wow.</div>
+            <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=cf8cb1be458f3a2bd7_10422314369132294634">
+              <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewBox="0 0 21 18">
+                <g fill="none">
+                  <path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path>
+                </g>
+              </svg>Download Telegram
+            </a>
+            <div class="tgme_channel_download_telegram_bottom">to view and join the conversation</div>
+          </div>
+          <div class="tgme_footer">
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/faq">About</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/blog">Blog</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//telegram.org/apps">Apps</a></h5>
+            </div>
+            <div class="tgme_footer_column">
+              <h5><a href="//core.telegram.org/">Platform</a></h5>
+            </div>
+          </div>
+        </section>
+      </div>
+      <div class="tgme_header_info">
+        <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=cf8cb1be458f3a2bd7_10422314369132294634">
+          <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewBox="0 0 19 16">
+            <g fill="none">
+              <path fill="#ffffff" d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path>
+            </g>
+          </svg>Join
+        </a>
+        <a class="tgme_header_link" href="https://t.me/telegram">
+          <i class="tgme_page_photo_image bgcolor4" data-content="TN"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i>
+          <div class="tgme_header_title">Telegram News</div>
+          <div class="tgme_header_counter">2.8M members</div>
+        </a>
+      </div>
+    </div>
+  </header>
+  <main class="tgme_main" data-url="/telegram">
+    <div class="tgme_container">
+      <section class="tgme_channel_history js-message_history">
+        <a href="/s/telegram?before=90" class="tme_messages_more js-messages_more" data-before="90"></a>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/90" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTAsInQiOjE1NTkzNzgzMjQsImgiOiJmMzdjM2Y4MDY4NTcxZDAxN2YifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTAsInQiOjE1NTkzNzgzMjQsImgiOiJmMzdjM2Y4MDY4NTcxZDAxN2YifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+              <a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/telegram/90"><i
+                  class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn1.telesco.pe/file/SoMXPElTyU6zDdwRCfMn2WHa1kSZwYPO38xt5JxPdx-vzGEvEsghFE90TH2XNWGCpysGxyQ3q2aZFLfloCilHh4GRHbDKEnGyX4pnMqc_PPzmGhPnktnJUWPhuRUiIRgcl4RTmoH9o6cEE06HymtfxtSzabi3R9t4Onb2j-_4axUqzBB3vnPg6LtrpsydRdQIx3hNCqpp_QkOq-g2N1T4UDqnnzP9E2jlxMag56pjv4VlSu_Gf7rmabM7uxiqkxNS7hUDga8NBZlZY_I3dz21BflfrCOG3X_V3GMnAZQo_vCW5zTzL_oJU6j7EMzHikrWiC_J2Zy8CeOHM0nkBKZlQ')"></i>
+
+                <div class="tgme_widget_message_video_wrap" style="width:720px;padding-top:100%">
+                  <video src="https://cdn1.telesco.pe/file/a2f27f2781.mp4?token=qzKER7M-Wpc2zA0BSd94I8s_g8GXx-QXCeItnCmO6xpt0dsdwHJVk9Ab64LD5OeLYKbX-RvvzJk669Xo02ebIOdYJwJxon3x_f5HCI99Bg0-rlrMnvo-L1JuAD7m8knp2Yt9gVOs_FCEdXNJlyAVtziWMvUH14vmrXGQc7fCIxlkW5Sa-riQMGmrdSp9-D9DGUEmvsKzzDdggdFsF0gW43dbkjQMgM9RXjbDm1nfCdyNNicP_oV0pUUJErmeiljwBUtBWEBc4G0AVS1wk3aFJ4r8jIQVJN4nvmL72AkuGDGaoXon2TCnvuFCsE7JNXjgi3TcQnfL_rBsPcbkw4tPCCwKBCrzpnS5HWCzHfWtjKAQApFi_zxE4L-crsdsmXgU-g_KfvO4y29ABtjjzURRVtZfHKfg4YMWWp0S-ua_0VRHuOd5UMfpk3_0Bx8bpIU-VhWN9Co13cb6M5hrwSjD18j7d_kMfTaM7A8OEX_Yh1-jbd3xAoDbqfbJOSyhYDVnek6wvh4pXccaOV05arhFx5Q6nd3wc_lnbknitMOcHMYpAIaOUP3m6ruMKGkocVxH5uf1SyS9ogdQC90I7zAG4B5lKRDyeuFjTbsZppBzl7ntEAD2enAbGFgsRyQW1GxuvAL1roFK-jusxYOcWBR5rTWXD6xFv84M0FOT5dbD_U0"
+                    class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+                </div>
+                <div class="message_video_play js-message_video_play"></div>
+                <time class="message_video_duration js-message_video_duration">0:57</time>
+                <div class="message_media_not_supported_wrap">
+                  <div class="message_media_not_supported">
+                    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+                    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+                  </div>
+                </div>
+              </a>
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Here&#39;s a video demo to give you a
+                taste of Telegram X for Android.</div>
+
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">3.7M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/90"><time datetime="2018-02-01T18:09:24+00:00">18:09</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/91" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTEsInQiOjE1NTkzNzgzMjQsImgiOiJiNjAwNTc4MWMxZDY1M2RlNzgifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTEsInQiOjE1NTkzNzgzMjQsImgiOiJiNjAwNTc4MWMxZDY1M2RlNzgifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Telegram <b>4.8</b> for <b>Android</b>
+                is now available.<br /><br />This update introduces <b>Media Streaming</b>. Start watching videos
+                without waiting for them to download fully.<br /><br />Another new feature is the <b>Auto-Night Mode</b>.
+                Choose your favorite dark theme and instruct the app to switch to it after sunset or in low-light
+                environments.<br /><br />These features are also coming to other platforms, so stay tuned for our next
+                updates.<br /><br />Read more on our blog:<br /><a href="https://telegram.org/blog/android-streaming"
+                  target="_blank" rel="noopener">https://telegram.org/blog/android-streaming</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/android-streaming">
+
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+                <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/A6QpzM7QK6GRzIxy1Bgz77DscGYKIBrn3mCKE2uFURVhSB-bsgB_fwfpcvM0y8EkpFUZPUZSLxOxd_z0-90MDIq96DBSeD_cdUbWt49ZOJbllw1Pn-dLx5qMjvU3S3y3SrShQccbG5QzmW2_NNlY5gTAEv8nWu1fXo0AZSiE18A6iHRA3vQQHlWU6OFzS6_hAZfPcpXvyurJKzjrhfJk_9w2d1jQAk1_JrzZCmXf61mOPnvGV7P3jC_9ZwQ-4-YDU1TGpSoFifNHD5w5rxQoysoctjl3NxKVLmeIQiBgFna7UxVxIdZ670DfwaXSpGceY3AM13sg66vH2nY0uqiPyg.jpg');padding-top:58%"></i>
+                <div class="link_preview_title" dir="auto">Streaming and Auto-Night Mode on Android</div>
+                <div class="link_preview_description" dir="auto">Telegram for Android v.4.8 introduces streaming for
+                  media and auto-night mode settings.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">4.0M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/91"><time datetime="2018-02-07T13:47:59+00:00">13:47</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/92" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTIsInQiOjE1NTkzNzgzMjQsImgiOiJhYjUwNmVjODhhYWVlNDU2NjcifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTIsInQiOjE1NTkzNzgzMjQsImgiOiJhYjUwNmVjODhhYWVlNDU2NjcifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Telegram Login is here. Authorize your
+                browser once and get <b>frictionless two-click login on any website</b> that supports signing in with
+                Telegram.<br /><br />Using the widget, website owners can also request permission for their <b>bot</b>
+                to <b>contact you on Telegram</b>. If you agree, this could be used for customer support, accepting
+                payments, or sending notifications of any kind – including account statements, shipment tracking,
+                flight updates, and so much more.<br /><br />Read more on our blog:<br /><a href="https://telegram.org/blog/login"
+                  target="_blank" rel="noopener">https://telegram.org/blog/login</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/login">
+                <i class="link_preview_right_image" style="background-image:url('https://cdn4.telesco.pe/file/SlwXTiJNOaG9Ef04oCluiskXTViK0nMkli_s9HejA2JnXQO4fKc94Rkx16Kl-a4qjApsHImbqodmBzAeonRHxRPjobd96Q7kUKNMuDk5CThJsJHaPg9w7PtV249Ux1lmnTnNUECIMcF8HKkw41-KFvfQ0oM9wUpLn1gYD8yudHjE2XAQOJXGdE-zALx3SMOMXG8j_KbsHT9EcVUqpwYoXMPTA9ePMfTLsa_ZZihOUsbiOF5rBYaJLeHBP6t7E-lB-a0amU4SlTzAeLPJHmpPzIKK8NE3xguB1yIyEWsP1ngvI-JfztMaDCGo-g9-OYZT91a_-aC-RypUrXwuur6DUw.jpg')"></i>
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+
+                <div class="link_preview_title" dir="auto">Telegram Login for Websites</div>
+                <div class="link_preview_description" dir="auto">The Login Widget offers a frictionless way to
+                  authorize users on your website and ask for permission to contact them on Telegram.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">4.8M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/92"><time datetime="2018-02-07T14:45:23+00:00">14:45</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/93" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTMsInQiOjE1NTkzNzgzMjQsImgiOiI0MjkwNDRlYjUzNjZhYmVhYjQifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTMsInQiOjE1NTkzNzgzMjQsImgiOiI0MjkwNDRlYjUzNjZhYmVhYjQifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Telegram <b>4.8</b> for iOS and <b>4.8.5</b>
+                for Android are here. <br /><br /><b>Discovering new stickers</b> has just become easier – when you
+                type an emoji, the app will suggest stickers from your added sets first and then throw in some new ones
+                from other popular sets.<br /><br />A <b>search field</b> is now available in the <b>sticker panel</b>,
+                so you can quickly locate your sets or find new ones. The new version also allows <b>taking multiple
+                  photos or videos</b> before sending them all together. <br /><br /><b>iOS</b> users get some of the
+                features from the previous Android release: <b>Auto-Night Mode</b>, support for text formatting in
+                media captions and more.<br /><br />Read more on our blog:<br /><a href="https://telegram.org/blog/discover-stickers-and-more"
+                  target="_blank" rel="noopener">https://telegram.org/blog/discover-stickers-and-more</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/discover-stickers-and-more">
+
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+                <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/FnOIEG0TVyM9bJH3ersYwZpbhnCUtKBxfdKvnqgtURBdp0Slw49yWz6PQKeQOXf3mvgLvb5od63CYcRZj5hQ8ODxhFHgT0sjT_BpDolv4b1aXNO4iEGK4SGof7Poideur9gUOzEz5z1dML2Royi07N5LXzkxF76wpA58WJddAeB9l4cTtKPDynGDLfYeoVj0NcDfI9CZL9Sf2vB1qhLh_o3zbzSMijzxLW_407q-uLbwumCFjL45cjFLWT6PHaZ7x20tXNHZeQC3Jts9kQwSj11W6hTmSSHaw6q4ZAC6TYMkVTnF-MRSMjryzbfuW7V3h0ZvXhMGR7n2uATbNGfDTw.jpg');padding-top:58.375%"></i>
+                <div class="link_preview_title" dir="auto">Sticker Search, Multiple Photos, and More</div>
+                <div class="link_preview_description" dir="auto">This update helps you discover new stickers and take
+                  &amp; send multiple photos or videos at once. It also brings Auto-Night Mode and more to iOS.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">6.0M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited
+                    &nbsp;<a class="tgme_widget_message_date" href="https://t.me/telegram/93"><time datetime="2018-03-23T09:11:10+00:00">09:11</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/94" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTQsInQiOjE1NTkzNzgzMjQsImgiOiIxNTdjMDVjNTAyOTM2ZWZiN2MifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTQsInQiOjE1NTkzNzgzMjQsImgiOiIxNTdjMDVjNTAyOTM2ZWZiN2MifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Please meet Telegram <b>4.8.3</b> for
+                iOS and Telegram <b>4.8.10</b> for Android.<br /><br />You can now <b>replace media</b> when editing
+                messages – an easy way to quickly post the correct photo instead of whichever wrong one jumped at your
+                thumb initially.<br /><br />The new <b>2X playback</b> mode makes it much easier to get through long
+                voice and video messages. You can now choose which phone numbers and other vCard data to send when <b>sharing
+                  contacts</b>. It&#39;s also possible to mark chats as <b>Read</b> or <b>Unread</b>.<br /><br />4.8.10
+                on <b>Android</b> also includes previewing chats (long tap on profile pictures in the chats list),
+                creating custom text links from the formatting menu, and canceling messages before they are sent.<br /><br />Read
+                more on our blog:<br /><a href="https://telegram.org/blog/unread-replace-2x" target="_blank" rel="noopener">https://telegram.org/blog/unread-replace-2x</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/unread-replace-2x">
+
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+                <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/RJ5DCseNMXi55Hf0eTiVTrys9EgvsESC1mrBPAMJjfxICdeIILmsmFdVD9ra3PuTs9hfcYdYCJXDYjRzZAYoPGmUewRsxoADdMP6s3is6kjFj1iRlp1-0c7VySXzF4XW0BEBS6EkGuDV2q9-Th8m7YWRk6DgG_aHb8Me1xqzyH_bg1Quhyy7X4LxwJj1YMWcK7pJkxBiXPYpC-vVwbJRnVXT5TxG3HNhyKfuNWDBrIImun0YUZL4OFzTESEpl67FZDE3uDl6Tc729pVnnlrvUUCIZ17xuIdfIYOi0Gyk9RjIAEimprgFm2zsJAQZsLLjA2R6XhxMq42r1dwBVXbIog.jpg');padding-top:58%"></i>
+                <div class="link_preview_title" dir="auto">Replace Media, Share vCards, Mark as Unread, 2X Voice
+                  Messages, and More</div>
+                <div class="link_preview_description" dir="auto">Replace Media, share contacts as vCards, mark as
+                  unread, 2X voice and video messages, and more in Telegram 4.8.3/10</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">4.5M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited
+                    &nbsp;<a class="tgme_widget_message_date" href="https://t.me/telegram/94"><time datetime="2018-06-28T17:38:28+00:00">17:38</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/95" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTUsInQiOjE1NTkzNzgzMjQsImgiOiI5NWNmNjQ3ODYxZDk2ZDEyMTkifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTUsInQiOjE1NTkzNzgzMjQsImgiOiI5NWNmNjQ3ODYxZDk2ZDEyMTkifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Telegram <b>4.9</b> for iOS and Android
+                is out. We&#39;re introducing <b>Telegram Passport</b>, a unified authorization method for services
+                that require real-world ID. <br /><br />Upload your documents, then easily share them with other
+                services and apps. Telegram Passport data is stored using end-to-end encryption so that Telegram has no
+                access to your data.<br /><br />Read more on our blog:<br /><a href="https://telegram.org/blog/passport"
+                  target="_blank" rel="noopener">https://telegram.org/blog/passport</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/passport">
+                <i class="link_preview_right_image" style="background-image:url('https://cdn4.telesco.pe/file/rKtwmD_KLEzHnJom4-UNzOyHCZbjCjcwEJ0p8w5AceO9wup0koK9b63ZEIrMQX6hbkuohkqUSmUSezZVuL-mHX1ChaQiyHJPbhTppUQpUucM5CYqKy9wUC373l189lVq0FzvPpziUVJZYsXSWoSU5aBVbQx8-cKFAH323CCb9GBfS-tjJi9Wq-eL4bp7FnZOcyHibKsO0lCxeJ9VS4n4F08joPv8w4-r52EpKlQaJRAsliy2CQT5DUdEPEV3e9H-Bc3gK9lPTd39yH7PEa5IyJ24-5mYnBbjXKDAdy_lDWrTNKSlN2eZMBQZVGEFcaICZdds4RoVmu0-Okncpd9Psg.jpg')"></i>
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+
+                <div class="link_preview_title" dir="auto">Introducing Telegram Passport</div>
+                <div class="link_preview_description" dir="auto">Meet Telegram Passport – a unified authorization
+                  method for services that require personal identification.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">4.3M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/95"><time datetime="2018-07-26T15:57:13+00:00">15:57</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/96" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTYsInQiOjE1NTkzNzgzMjQsImgiOiJiNTViZjNhMDQ0NGUyZWU4MGYifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTYsInQiOjE1NTkzNzgzMjQsImgiOiJiNTViZjNhMDQ0NGUyZWU4MGYifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Telegram for <b>iOS</b> and <b>Android</b>
+                <b>4.9.1</b> are out today, adding a new <b>Exceptions</b> section in Notification settings that lists
+                all your chats with custom notifications. <br /><br /><b>Telegram Passport</b> now supports more types
+                of data, including translated versions of documents. We&#39;ve also improved the password hashing
+                algorithm to better protect Telegram Passport data.<br /><br />And with the new <b>Telegram Desktop</b>
+                <b>1.3.13</b> you can easily save some (or all) of your chats on your disk.<br /><br />Read more on our
+                blog:<br /><a href="https://telegram.org/blog/export-and-more" target="_blank" rel="noopener">https://telegram.org/blog/export-and-more</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/export-and-more">
+                <i class="link_preview_right_image" style="background-image:url('https://cdn4.telesco.pe/file/LSc25Bn6wmpInGUrUcMQ2exkNLR8y3SwBbqUJv0kNeV0KbSAloA9Shpt2TpghEckl-4YU00atGLolcek98GpyirlPaGBDgkd8EoXkQ7JrFqiq2XlzxRzJ3Wo1Af8vHUqFOiulhNUG1ax9ErrTvOPdm01rJmQC0XRdNEm21UTiIx2QbkxnPvDxsmNck3Mzrr6qE_N2G8Eq2dujQfD3y_JIS1j5VuyX6M023_1KIBecpB6_nhSBWCOvumRPnPaR137eb0JoW4Ce18BFNOi1f550Uo5rKqpgyIcKj5H-RzonqMmo6PWr92ScrRFmtVUIenuOSp0yCV7-u3yT2suxIQJeg.jpg')"></i>
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+
+                <div class="link_preview_title" dir="auto">Chat Export Tool, Better Notifications and More</div>
+                <div class="link_preview_description" dir="auto">Today’s Telegram update brings you an easy way to save
+                  conversations on your disk. In just a few taps, you can export some (or all) of your chats, including
+                  photos and other media they contain. As a result you’ll get all your data accessible offline in JSON…</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">4.8M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited
+                    &nbsp;<a class="tgme_widget_message_date" href="https://t.me/telegram/96"><time datetime="2018-08-27T08:45:53+00:00">08:45</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/97" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTcsInQiOjE1NTkzNzgzMjQsImgiOiI5YjMzZGE3MjhkNGYyNGEyMzkifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTcsInQiOjE1NTkzNzgzMjQsImgiOiI5YjMzZGE3MjhkNGYyNGEyMzkifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">A major update: Telegram for <b>Android</b>
+                <b>5.0</b>, Telegram for<b> iOS</b> <b>5.1</b>, and<b> Telegram Desktop</b> <b>1.5</b> have arrived.<br /><br />You
+                can now use the <b>Translation Platform</b> to create your own <b>custom languages</b>, spread them via
+                links and apply changes in real time. Each language also gets a public discussion group.<br /><br /><b>Instant
+                  View 2.0</b> lets you view web pages instantly with improved support for more types of content:
+                right-to-left languages, blocks of related articles, image links, tables, nested lists, horizontal
+                scrolling, collapsible text blocks and much more.<br /><br /><b>Telegram for Android</b> received a <b>major
+                  redesign</b> in version <b>5.0</b>. Profile pages offer quick access to shared media. Shared content
+                sections were improved with high quality previews, increased loading speed, and more info under Links
+                and Files. The Settings and Notification and Sounds settings screens were updated for a more
+                streamlined experience.<br /><br /><b>Telegram Desktop</b> reached version <b>1.5</b>. In addition to
+                custom languages, it now offers interface scaling for large screens, new badge counter settings,
+                support for new emoji and long media captions (up to 1000 characters). Like other Telegram apps, the
+                desktop client now supports 2X mode for voice and video messages.<br /><br /><b>Telegram for macOS</b>
+                recently received support for video streaming, swipe navigation (including swipe to reply), and
+                improved search for messages.<br /><br />Read more on our blog:<br /><a href="https://telegram.org/blog/translations-iv2"
+                  target="_blank" rel="noopener">https://telegram.org/blog/translations-iv2</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/translations-iv2">
+                <i class="link_preview_right_image" style="background-image:url('https://cdn4.telesco.pe/file/TkQI9KqSrDdwZiRqvV9PG3i-2kw_enMzEfAWzqemGzhO3cQ55totZK6r8YWVsdcj_enOdp-tBdQKPO1J-JqHBcgggRwsz_f4xGqxt8SXG98nUIAhlAdNjm2f7D3CTOdkCuonnc1-zBg_3EMm3Ihj5RscNpSODuZCYQxIdpoyR6Jh26tpKHwrrL8PQ_C6Z7rCTPLhcgIhaRyj1tRvSwbiTAREoNOLa5K6kh2GEye6rMjNv2M4Lb5RKpZ8dn1NRoNZIUqoB7OgINFjXzxfJLW3OKpPFBPBTc7yVNack69RcAbaQcSdvuhkCsvo7EDmJkmpHwJB5YgYBZe9RncQm8i64Q.jpg')"></i>
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+
+                <div class="link_preview_title" dir="auto">Custom Languages, Instant View 2.0 and More</div>
+                <div class="link_preview_description" dir="auto">Introducing custom language packs that are easy to
+                  create and spread, Instant View 2.0, redesigned Telegram for Android and more.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">3.2M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/97"><time datetime="2018-12-11T12:16:07+00:00">12:16</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/98" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTgsInQiOjE1NTkzNzgzMjQsImgiOiJlM2VmNTMxMWY4YjY4YTFjNWMifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTgsInQiOjE1NTkzNzgzMjQsImgiOiJlM2VmNTMxMWY4YjY4YTFjNWMifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Telegram for Android, iOS, desktop and
+                macOS have been updated with a dedicated tool for <b>polls</b>. <br /><br />You can create polls in
+                groups and channels – right from the attachment menu.<br /><br />In addition to this, <b>Image Search
+                </b>is back to the <b>iOS app</b>. Use the <i>Web Search</i> option when setting any profile picture
+                and the looking glass button when sending a <i>Photo &amp; Video</i> attachment. <br /><br /><b>Telegram
+                  for macOS </b>caught up with rest of the crowd, adding support for <b>custom languages</b>. The app
+                also boasts improved performance when playing GIFs. <br /><br />Read more on our blog:<br /><a href="https://telegram.org/blog/polls"
+                  target="_blank" rel="noopener">https://telegram.org/blog/polls</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/polls">
+
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+                <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/S9Dnv8G5SEm32EQNg9dlPxWNyZ4TeBsQNqLN5NNSeih3-EqKutVBc8uZEWQ0oFqnZF1KA00cDFaTX0y1kSZfndENCbd_elP6lp4YtQINBK5PntqRs53szIW81saBqxmP9lFmZYJ8TbSiRLfTC8uqj0A3Q5FhmkoyZQbny-Kzqej0IZdUPKWugEJdspttTaC4dvltV3L70icC57cK8IsudkjFdnaHjpyk51m2q6NFSAHn1j-JRSRJC-lCqp2N21s34mZVTeIdfbmtQ7ArhOC5P6I7rIj31uP7mkhP34PXXVhj0ON8TTEEohJR_65TavkYICMtaFeBswaQ5OZede63xA.jpg');padding-top:58%"></i>
+                <div class="link_preview_title" dir="auto">Polls: Bringing Choice to Communities</div>
+                <div class="link_preview_description" dir="auto">Large communities on Telegram frequently use polls to
+                  coordinate their activities and stay in touch with their constituents. Today, we&#39;re rolling out a
+                  dedicated tool for polls.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">3.5M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/98"><time datetime="2018-12-23T11:49:43+00:00">11:49</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/99" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTksInQiOjE1NTkzNzgzMjQsImgiOiI5MjZmYWRkNjE0ZTdiMWMyZmIifQ"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6OTksInQiOjE1NTkzNzgzMjQsImgiOiI5MjZmYWRkNjE0ZTdiMWMyZmIifQ">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+              <div class="tgme_widget_message_forwarded_from">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name"
+                  href="https://t.me/durov/95" dir="auto">Durov&#39;s Channel</a></div>
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">2018 was a great year for Telegram, but
+                2019 is going to be by far the most important one in our company&#39;s history.<br /><br />In 2018,
+                more and more people discovered Telegram and switched to it from services run by ad-selling IT
+                monopolies.<br /><br />As a result, Telegram became one of the few messaging apps that are enjoying
+                significant growth globally.<br /><br />Building on the success of the last year, this year we are
+                going to implement many long-awaited product changes you have been asking for. <br /><br />2019 will be
+                the time when feature-related wishes of our users come true.</div>
+
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">4.0M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/99"><time datetime="2019-01-17T07:03:41+00:00">07:03</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/100" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTAwLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiOTcxOTg1NTdkMDgwMGFkM2VmIn0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTAwLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiOTcxOTg1NTdkMDgwMGFkM2VmIn0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Telegram for iOS and Android have just
+                reached <b>v5.2</b>.<br /><br />Group admins can set default <b>permissions</b> to restrict all members
+                from posting specific kinds of content. Telegram groups can now have up to <b>200,000 members</b>.<br /><br />When
+                you delete a chat or clear chat history, you&#39;ll get a detailed confirmation dialog and an option to
+                <b>restore</b> the chat within the next <b>5 seconds</b>.<br /><br />We&#39;ve also added new
+                streamlined group settings, new <b>contact sorting options</b>, better thumbnails, improved animations,
+                stylish new search bars on iOS, an improved dark mode on Android – and more.<br /><br />Read more on
+                our blog:<br /><a href="https://telegram.org/blog/permissions-groups-undo" target="_blank" rel="noopener">https://telegram.org/blog/permissions-groups-undo</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/permissions-groups-undo">
+
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+                <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/Jt15V1GdK0nEjPYnIT0P9zZjCm9lfagCjGGPfqWwijQ6_gNnzV0mU0PiNP4pUqPbjDUgy-0OF0lRn5l6xMptJEB1LEkL07OFc1xFcjnLCtiDezPUBzHdRb_EDcgLFTQM_r_Hm7ko9ONX-gpRXtJb0p34uaIMWLfs8PwwtTZAR3XToyBjl3UwxBJ7Mh8_p7qkQpM1nTiXnQoMBUF5YHgfRIVIkt-qlQTSKfqPJHV_kKCokozlXFQsln22jZPBqfxj-4EYMkGBU_AgG7f6kJrTlMRIACaHBDg6zI9e2AMINyFyckOZG5aE-NovqDT8ZVzDCHt5b3bNCYFQNgx1IJlSEQ.jpg');padding-top:58%"></i>
+                <div class="link_preview_title" dir="auto">Group Permissions, Undo Delete and More</div>
+                <div class="link_preview_description" dir="auto">Ever wanted to run a sticker-free or GIF-free
+                  community? With group permissions, admins can now restrict all members from posting specific kinds of
+                  content.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">3.0M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/100"><time datetime="2019-01-21T18:02:05+00:00">18:02</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/101" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTAxLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiZjIyZTZhM2E3OTI2ODE5MTRhIn0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTAxLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiZjIyZTZhM2E3OTI2ODE5MTRhIn0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto"><b>Introducing Chat Backgrounds 2.0.<br /><br /></b>You
+                can now <b>make</b> your own wallpapers or search for them on the web, apply effects like <b>blur</b>
+                or <b>motion</b>, then <b>share</b> your backgrounds with others via links.<br /><br />Read more on our
+                blog:<br /><a href="https://telegram.org/blog/backgrounds-2-0" target="_blank" rel="noopener">https://telegram.org/blog/backgrounds-2-0</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/backgrounds-2-0">
+                <i class="link_preview_right_image" style="background-image:url('https://cdn4.telesco.pe/file/fdVvMj5Q-h9WdfohE-ZjL5SrG5ihJqGZjZuvaZgvehfs_nZWzHQXH8MpcCVhjl9ZVLhE1vpTE0-tvzsb_YQwTmC6fyA6S0LsUGCCEGtWwImwj-oZe3Evx7PF-vR0LJYHDDuFHQepgzu6gp-S1032-YpMvZfyXZyS1hcGCsYOWj2OGqr8VwrBpsvkc-UobrjO9XW_Veev0nlFqzhqRShGM5QMtolThkraoE-rQEHrz5NgLG4PyGXxmIDiEnV48BQNDYDlCDI-WWA2HR23PU9Jyn1QLkIiQr12gO7a4E_uM58u1__tNsQfYEX79s00E9h49FZNPdw_Kv2vYss42W-6qQ.jpg')"></i>
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+
+                <div class="link_preview_title" dir="auto">Chat Backgrounds 2.0: Make Your Own</div>
+                <div class="link_preview_description" dir="auto">No chat can be dull if you have a really cool chat
+                  background. Today&#39;s update will ensure you get one. You can now search the web for wallpapers,
+                  add effects and then share your backgrounds with friends via links.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">3.2M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta">edited
+                    &nbsp;<a class="tgme_widget_message_date" href="https://t.me/telegram/101"><time datetime="2019-02-02T06:58:39+00:00">06:58</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/102" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTAyLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiNDM5MTYyNDA1NDhiMjhiNjJlIn0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTAyLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiNDM5MTYyNDA1NDhiMjhiNjJlIn0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+              <div class="tgme_widget_message_forwarded_from">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name"
+                  href="https://t.me/durov/97" dir="auto">Durov&#39;s Channel</a></div>
+
+              <a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/telegram/102"><i
+                  class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn1.telesco.pe/file/o1amCuABueer8nClG_SsJPx3RdjrStZb2N7bRQIDLzmL5jy0FFDqJAmTlcdyqOtlDCk8MX-oaWG-c2TK9mA9YZbpkbf215aF4PhdQ6YLw-rvGJbvNSl7yut30bXZHQkOrM3SfNPPUHfELwlEHJxX8lzf2a7f63xDCVAEMezc_sq0e_rneKXAr-B_z5bdE5GCHrvjhS4Gw1qIaCx4QrmmKUPa9NmijqvoLTBLxFMhF9IE-WhgsYLVCqvVBlVgnhi0vpLWC_Fqzxi9dGTefx6nQ4opjFZopz59spp6JFuTXYQ0C4fS7Hg7hh8RUSMuzWqCUZGowd4ors6Hi5p2QfRrow')"></i>
+                <video src="https://cdn1.telesco.pe/file/68232ec006.mp4?token=guxGro2Kposcg9fFLjcIJUvMwDieoSJ8RAgx8auZoH9rIBNqm-Td0edD8eWNJweSCZPazv17XwucFYe5S_5FUgLlItPIH7tqkKh388plMQqcuG1ZXJmcbN85drRLp3kGLe8ExC3g5JaukmScTRiRBoICJGh2gvBzuGaAtGYAf7YM7jkkCdPOIDhMRXW1vepLLEdb5YtW4Auy2_I6ZtHh1AU4JYPFfNg_HSzqk1fqulB5ZqJ0p0_ngtl1CZ2adNn7PFrsb0QF_loXw5y44aqRl5xsM41q8Msv1Nzw-iy2Sam4eNhdYwx_SjeCqohuJ3JoSnkVl5NO0nZAy6bBiQhgew"
+                  class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" preload
+                  muted autoplay loop playsinline></video>
+                <div class="tgme_widget_message_video_wrap" style="width:540px;padding-top:133.33333333333%">
+                  <video src="https://cdn1.telesco.pe/file/68232ec006.mp4?token=guxGro2Kposcg9fFLjcIJUvMwDieoSJ8RAgx8auZoH9rIBNqm-Td0edD8eWNJweSCZPazv17XwucFYe5S_5FUgLlItPIH7tqkKh388plMQqcuG1ZXJmcbN85drRLp3kGLe8ExC3g5JaukmScTRiRBoICJGh2gvBzuGaAtGYAf7YM7jkkCdPOIDhMRXW1vepLLEdb5YtW4Auy2_I6ZtHh1AU4JYPFfNg_HSzqk1fqulB5ZqJ0p0_ngtl1CZ2adNn7PFrsb0QF_loXw5y44aqRl5xsM41q8Msv1Nzw-iy2Sam4eNhdYwx_SjeCqohuJ3JoSnkVl5NO0nZAy6bBiQhgew"
+                    class="tgme_widget_message_video js-message_video" width="100%" height="100%" preload muted
+                    autoplay loop playsinline></video>
+                </div>
+
+                <div class="message_media_not_supported_wrap">
+                  <div class="message_media_not_supported">
+                    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+                    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+                  </div>
+                </div>
+              </a>
+
+
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">4.8M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/102"><time datetime="2019-02-02T06:58:57+00:00">06:58</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/103" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTAzLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiNTEzYjU4MzY3MTcxMTQzMTgyIn0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTAzLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiNTEzYjU4MzY3MTcxMTQzMTgyIn0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Introducing <b>autoplaying videos</b>,
+                smart <b>auto-download settings</b> and support for <b>multiple accounts</b>.<br /><br />Read more on
+                our blog:<br /><a href="https://telegram.org/blog/autoplay" target="_blank" rel="noopener">https://telegram.org/blog/autoplay</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/autoplay">
+
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+                <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/Qb46v0C1vPYjCooQMpOrCUJgy3VSf7U8IGHChOfDnxWZy1f6AfGvIyzrMeuFsyG4K5kj3M2c9tumj90f24XeHphts6z0hnl8ZppA4JwDPb5ULCnjIhnw0ZvW7NsOSvzoOXNsL5Z5Ilc3ByZKUauX3qyPNsd-RixOIy5nB7omx1rQZ5QClD6bdCV_BF6eSa_lR6NTbSPDS_vIP5a9YWMGjotq3fSIrNOUccNTCvafo5p96qT3wJ8ux_QpEBxwdFdOPXN8g36M8UZyGHDHpgb4wEBYf102tq1AB5QUcWmgkF4W7mDOjIVgpm8OOhWW_V28WAX1Pf3YPMKuGwaT7wTo2A.jpg');padding-top:58%"></i>
+                <div class="link_preview_title" dir="auto">Autoplaying Videos, Automatic Downloads and Multiple
+                  Accounts</div>
+                <div class="link_preview_description" dir="auto">Telegram 5.4 introduces autoplaying videos, smart
+                  autodownload settings and support for multiple accounts.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">3.2M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/103"><time datetime="2019-02-26T15:36:54+00:00">15:36</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/104" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTA0LCJ0IjoxNTU5Mzc4MzI0LCJoIjoiN2I5YzZjMDE5YmU3ZTkxODEwIn0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTA0LCJ0IjoxNTU5Mzc4MzI0LCJoIjoiN2I5YzZjMDE5YmU3ZTkxODEwIn0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+              <a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/telegram/104"><i
+                  class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn1.telesco.pe/file/MS24KOiC7-_jwTHotCqgWjaiEPtAAWc1ln-znjlJcSctLiURuLtxjA4SP1RFdz257yQgSTZQiG8IQ0WGrchXez2iEn_Z9VQwpyEIFtElhTQh9LGTMvKOEAM6Y8Vnb0T8Yj06agRCxD2mTAlupKKhbVJ3-ZnyeUdQIZFHcfkFqqehZ7u6prP7IQdoU4aagdF-4FAjJgQkZzwp7SxkN9JM3emti5mXQLiPNRq_tU6WO8aw_rbIgSMD6fAu-OyJt_ySYxeGXa4O9rXxk34TY1juVaHXb9qgr2QzaleeIbeYLdUYLbCz6fPQxJLQiCxOlLw_ms31vKkE-_Y8y8Hft7Qe7g')"></i>
+                <video src="https://cdn1.telesco.pe/file/1a0c10c815.mp4?token=oitX1WLNM3jqP2kx4QsLKEj2PAExSFtJ2MApTGCoJotgJcYfwbzGACj_O3xZ5E2p2L6EiIyQCZdREeOc0bKqf9KJoKiSIBvp_vnn2E6hgxMWhGt96VZ4pp2bFVMF-TTZC0OhqwQu3aaDfAAHl0X2MUTwGGqk9aBXxihcewDte1gNK7Q7XmWuLdjr9iEGlhgz35xQsdzKUBJREEWInhXRglMeYKev8-xsupGoP3DF77uVXIoVBUPs_5qRL5wfmWHYhKs84JfwtTeWhYHdcEBAkNytNNeOrl0ryr8p0saFLzRqZCIVhnMV3uO7JaBhFjaqsWUkPAZ9eK7JG7X1yBHuzw"
+                  class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%"></video>
+                <div class="tgme_widget_message_video_wrap" style="width:540px;padding-top:133.33333333333%">
+                  <video src="https://cdn1.telesco.pe/file/1a0c10c815.mp4?token=oitX1WLNM3jqP2kx4QsLKEj2PAExSFtJ2MApTGCoJotgJcYfwbzGACj_O3xZ5E2p2L6EiIyQCZdREeOc0bKqf9KJoKiSIBvp_vnn2E6hgxMWhGt96VZ4pp2bFVMF-TTZC0OhqwQu3aaDfAAHl0X2MUTwGGqk9aBXxihcewDte1gNK7Q7XmWuLdjr9iEGlhgz35xQsdzKUBJREEWInhXRglMeYKev8-xsupGoP3DF77uVXIoVBUPs_5qRL5wfmWHYhKs84JfwtTeWhYHdcEBAkNytNNeOrl0ryr8p0saFLzRqZCIVhnMV3uO7JaBhFjaqsWUkPAZ9eK7JG7X1yBHuzw"
+                    class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+                </div>
+                <div class="message_video_play js-message_video_play"></div>
+                <time class="message_video_duration js-message_video_duration">0:33</time>
+                <div class="message_media_not_supported_wrap">
+                  <div class="message_media_not_supported">
+                    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+                    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+                  </div>
+                </div>
+              </a>
+
+
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">3.8M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/104"><time datetime="2019-02-26T15:37:39+00:00">15:37</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/105" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTA1LCJ0IjoxNTU5Mzc4MzI0LCJoIjoiMjBmMGQ4YmZiNjZkOGM2OTc4In0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTA1LCJ0IjoxNTU5Mzc4MzI0LCJoIjoiMjBmMGQ4YmZiNjZkOGM2OTc4In0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+              <div class="tgme_widget_message_poll">
+                <div class="tgme_widget_message_poll_question">Which feature you would like us to build next?</div>
+                <div class="tgme_widget_message_poll_type">Anonymous Poll</div>
+                <a class="tgme_widget_message_poll_options" href="https://t.me/telegram/105">
+                  <div class="tgme_widget_message_poll_option">
+                    <div class="tgme_widget_message_poll_option_percent">61%</div>
+                    <div class="tgme_widget_message_poll_option_value">
+                      <div class="tgme_widget_message_poll_option_text">Video calls</div>
+                      <div class="tgme_widget_message_poll_option_bar" style="width:100%"></div>
+                    </div>
+                  </div>
+                  <div class="tgme_widget_message_poll_option">
+                    <div class="tgme_widget_message_poll_option_percent">16%</div>
+                    <div class="tgme_widget_message_poll_option_value">
+                      <div class="tgme_widget_message_poll_option_text">Group voice calls</div>
+                      <div class="tgme_widget_message_poll_option_bar" style="width:25.2973%"></div>
+                    </div>
+                  </div>
+                  <div class="tgme_widget_message_poll_option">
+                    <div class="tgme_widget_message_poll_option_percent">23%</div>
+                    <div class="tgme_widget_message_poll_option_value">
+                      <div class="tgme_widget_message_poll_option_text">Folders for chats</div>
+                      <div class="tgme_widget_message_poll_option_bar" style="width:37.3681%"></div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_voters">523.4K</span><span class="copyonly"> voters</span><span
+                    class="tgme_widget_message_views">4.3M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/105"><time datetime="2019-03-23T11:24:01+00:00">11:24</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/106" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTA2LCJ0IjoxNTU5Mzc4MzI0LCJoIjoiNjVmNDM3ZWZiMjQ1NGY3NGFiIn0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTA2LCJ0IjoxNTU5Mzc4MzI0LCJoIjoiNjVmNDM3ZWZiMjQ1NGY3NGFiIn0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Today&#39;s update to Telegram apps
+                introduces a new kind of private communication. You can now <b>&quot;unsend&quot;</b> any message you
+                sent or received in any private chat, <b>anytime</b>. You can also control when your messages link back
+                to your account if <b>forwarded</b>. For good measure, we&#39;ve also added an option to <b>hide your
+                  profile picture</b> from non-contacts.<br /><br />Android users can now use <b>emoji search</b> to
+                quickly find the yellow beasts they were looking for — and will get <b>emoji suggestions</b> for the
+                first word they type in a message.<br /><br />Both platforms also support improved <b>sticker search</b>
+                — you can now find individual stickers based on the keywords for the relevant emoji.<br /><br />All the
+                important parts of our iOS app can now be accessed with <b>VoiceOver</b> and the Android app fully
+                supports <b>TalkBack</b>.<br /><br />More features from this update:<br /><a href="https://telegram.org/blog/unsend-privacy-emoji"
+                  target="_blank" rel="noopener">https://telegram.org/blog/unsend-privacy-emoji</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/unsend-privacy-emoji">
+
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+                <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/lOewcW3fD21okCp9jYt0fnvW17IL3-DlQmHVPRInNALtaETk01maRo2DomMzai48tJVzkIN7J2ZbmgiJVqOfZaaWo2CHuiThiLna3eQZwyT-Ad_sK9wXzYFL1UtVae2nwIuExBp9r8hTbwe2xGgOZ3fJmmOXTHDd__52nWirqJDuFg6VZdLggS2N1_EcIUgeVGVAi0re4ict2MrzZwEEMNX2jO5_BEo77o-JjcQnWkafJGjce0T9BPnaPYGYmT3LgrgdC-2Gdc09PFP0u3odioUp3MR5rTXp55-GfOGFDKWmXLpt9udlIKG01AredVCBuTcoS7flUR-4e1VgCF9qIg.jpg');padding-top:58%"></i>
+                <div class="link_preview_title" dir="auto">Taking Back Our Right to Privacy</div>
+                <div class="link_preview_description" dir="auto">Today, we are giving hundreds of millions of users
+                  complete control of any private conversation they have ever had. You can now choose to delete any
+                  message you have sent or received from both sides in any private chat. The messages will disappear
+                  for both…</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">4.4M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/106"><time datetime="2019-03-24T17:44:15+00:00">17:44</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/107" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTA3LCJ0IjoxNTU5Mzc4MzI0LCJoIjoiMTA3OTE5Y2MxZDMwNGFhNDZjIn0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTA3LCJ0IjoxNTU5Mzc4MzI0LCJoIjoiMTA3OTE5Y2MxZDMwNGFhNDZjIn0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+              <div class="tgme_widget_message_forwarded_from">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name"
+                  href="https://t.me/durov/103" dir="auto">Durov&#39;s Channel</a></div>
+
+              <div class="tgme_widget_message_poll">
+                <div class="tgme_widget_message_poll_question">How did you like the privacy-focused update of Telegram?</div>
+                <div class="tgme_widget_message_poll_type">Anonymous Poll</div>
+                <a class="tgme_widget_message_poll_options" href="https://t.me/telegram/107">
+                  <div class="tgme_widget_message_poll_option">
+                    <div class="tgme_widget_message_poll_option_percent">54%</div>
+                    <div class="tgme_widget_message_poll_option_value">
+                      <div class="tgme_widget_message_poll_option_text">Awesome, keep it up&#33; <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i></div>
+                      <div class="tgme_widget_message_poll_option_bar" style="width:100%"></div>
+                    </div>
+                  </div>
+                  <div class="tgme_widget_message_poll_option">
+                    <div class="tgme_widget_message_poll_option_percent">46%</div>
+                    <div class="tgme_widget_message_poll_option_value">
+                      <div class="tgme_widget_message_poll_option_text">Awful, take it back <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918E.png')"><b>👎</b></i></div>
+                      <div class="tgme_widget_message_poll_option_bar" style="width:86.7878%"></div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_voters">1.5M</span><span class="copyonly"> voters</span><span class="tgme_widget_message_views">16.4M</span><span
+                    class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date"
+                      href="https://t.me/telegram/107"><time datetime="2019-03-28T07:00:09+00:00">07:00</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/110" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTEwLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiZmQzNDQzNjc2YTVhNTA3ZjQxIn0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTEwLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiZmQzNDQzNjc2YTVhNTA3ZjQxIn0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Today&#39;s update brings <b>archived
+                  chats</b> and a host of new and redesigned features — just in time for spring cleaning.<br /><br />Tidy
+                things up with <b>archived chats</b> by separating work from play, and important from inactive. <b>Copy
+                  links</b> to messages in<b> private</b> groups and channels to point back to specific posts. <b>Redirect
+                  forwards</b> before sending to keep messages for their intended audiences only. See who else is up
+                past their bedtime with<b> online badges</b>.<br /><br /><b>Android</b> users can now select multiple
+                chats for <b>bulk actions</b>, quickly pinning, muting, archiving or deleting in one sweep. The app’s
+                icon and menus have a new look and new functions — introducing an <b>expanded chat list</b>, <b>quick
+                  forwarding</b> button, and a more robust <b>sharing menu</b> supporting emoji.<br /><br /><b>iOS</b>
+                now accommodates <b>6-digit passcodes</b> and a new look for <b>large emoji</b>, as well as the option
+                to clear<b> recently used stickers</b>.<br /><br />Read more on our blog:<br /><a href="https://telegram.org/blog/archive-and-new-design"
+                  target="_blank" rel="noopener">https://telegram.org/blog/archive-and-new-design</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegram.org/blog/archive-and-new-design">
+
+                <div class="link_preview_site_name" dir="auto">Telegram</div>
+                <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/gptSjEOp13OP-ei6a9q233f0irGqbJ6RqU3Is4sEFIENXlaEGzzl_C8trZOr1tdFwFQ4ievLcT1STwDJrG-bUXI_TbZEX08Di0eQPuBRVjMtz_cMmv0SMHf2lTmf9GJQOX-7OEcrd8837RVuz2GrMwr4f6a2rYUKuiqiKJqjLLB8CuIeR53QKYfMZaFu4I6zODNc_Iq-VDZZUCiXqcXdT_rCUA4m2JoErneCtlxhrnWvhsgz0--RbmHE5ugcfjXZJyKTd8O6vqzz1WeCnjQOYgd3LcBcudN6THpgwwWu4_OwNJSkR2n6Um3QPfwuEZ8qGugtU9d_NtMagPr9OSwUVQ.jpg');padding-top:58%"></i>
+                <div class="link_preview_title" dir="auto">Archived Chats, a New Design and More</div>
+                <div class="link_preview_description" dir="auto">Today&#39;s update gives you the tools to sort your
+                  messages with archived chats, a new design on Android, and a handful of other nifty features to make
+                  the most of your messenger.</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">1.9M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/110"><time datetime="2019-05-09T17:19:41+00:00">17:19</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="tgme_widget_message_wrap js-widget_message_wrap">
+          <div class="tgme_widget_message force_userpic js-widget_message" data-post="telegram/111" data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTExLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiM2ZkNTMyNDk2YmM3NDY2YjhkIn0"
+            data-view="eyJjIjotMTAwNTY0MDg5MiwicCI6MTExLCJ0IjoxNTU5Mzc4MzI0LCJoIjoiM2ZkNTMyNDk2YmM3NDY2YjhkIn0">
+            <div class="tgme_widget_message_user"><a href="https://t.me/telegram"><i class="tgme_widget_message_user_photo bgcolor4"
+                  data-content="T"><img src="https://cdn1.telesco.pe/file/euWcw8YJ_QY9HfbU0WNrzvSRh4d04_l_wzp4Hgci-rOMkPiImHXNVmZMiWgJXi7_CqfZJr8expRpfg9K8NsMOWiNRMHDni9YERzkMpVEAf1Q1n14AflS3YTC7eqo1I7EKbcWHwDxtnbbQiDKoyHspKaI20QZvDwRY7S2bc2MYDEpOFqKtPWXAqlUGZDtaDPLFtgO7mCWTxy24be4C2yDTawcFodXfWw18uxhagEig41dG3RvNljc4MsgDmreqhnqF1clJIRAtSIJENT1S5FRRRT5jeeESpj30lUqD4PkfCmeIHTwK5C6bb-XgPQxBoHmce4gWreBKJgIWzR6KCn_8g.jpg"></i></a></div>
+            <div class="tgme_widget_message_bubble">
+              <i class="tgme_widget_message_bubble_tail">
+                <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+                  <g fill="none">
+                    <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                    <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                    <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                    <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+                  </g>
+                </svg>
+              </i>
+              <div class="tgme_widget_message_author"><a class="tgme_widget_message_owner_name" href="https://t.me/telegram"><span
+                    dir="auto">Telegram News</span><i class="verified-icon"> ✔</i></a></div>
+
+
+
+              <div class="tgme_widget_message_text js-message_text" dir="auto">Now is a good time to bring your friends
+                and family to Telegram. <br /><br /><a href="https://telegra.ph/Why-WhatsApp-Will-Never-Be-Secure-05-15"
+                  target="_blank" rel="noopener">https://telegra.ph/Why-WhatsApp-Will-Never-Be-Secure-05-15</a></div>
+              <a class="tgme_widget_message_link_preview" href="https://telegra.ph/Why-WhatsApp-Will-Never-Be-Secure-05-15">
+                <i class="link_preview_right_image" style="background-image:url('https://cdn4.telesco.pe/file/RCUipriQe6Ta25U813QtsO87A2m09-WQVLHuREZpgb0zAa19qNCLEG4xCWQFLZV0yRzvXhEG7_c_aWfGMKbXKuhyNST_Uyz3ny51jyLTtyDRT7gKD3oTUqv7GCW_bhzjmuBLLyTHjkGcG9Z8wKiwh6GX3GTWmH_rSL1LvDu-IHoSzjqnzVSu1kr0sCPz9wrZAH3vNC5K7pp0jQemTtfijf6sr5dXaM7gIDm1N73cL9R523peNLhnfm7mRmJL5ItRP6_kZUBkvEImUxZCR9T1sWSFxMTGJqtACvQKiNpNID2aqfJ3B2nYw7CnUZjUmADdYWKoAf8O3TN1FY5bY5tFpA.jpg')"></i>
+                <div class="link_preview_site_name" dir="auto">Telegraph – Pavel Durov</div>
+
+                <div class="link_preview_title" dir="auto">Why WhatsApp Will Never Be Secure</div>
+                <div class="link_preview_description" dir="auto">The world seems to be shocked by the news that
+                  WhatsApp turned any phone into spyware. Everything on your phone – including photos, emails and texts
+                  – could be accessed by attackers just because you had WhatsApp installed [1].   This news didn’t
+                  surprise…</div>
+              </a>
+              <div class="tgme_widget_message_footer compact js-message_footer">
+
+                <div class="tgme_widget_message_info short js-message_info">
+                  <span class="tgme_widget_message_views">1.3M</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a
+                      class="tgme_widget_message_date" href="https://t.me/telegram/111"><time datetime="2019-05-16T15:32:23+00:00">15:32</time></a></span>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script src="//telegram.org/js/jquery.min.js"></script>
+  <script src="//telegram.org/js/jquery-ui.min.js"></script>
+  <script src="//telegram.org/js/widget-frame.js?27"></script>
+  <script src="//telegram.org/js/telegram-web.js?6"></script>
+  <script>(function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-45099287-3', 'auto', { 'sampleRate': 5 });
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview'); TWeb.init();
+  </script>
+</body>
+
+</html>
