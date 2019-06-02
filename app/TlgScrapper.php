@@ -7,15 +7,21 @@ class TlgScrapper
 {
     protected $rawContent;
     protected $client;
-    protected $patterns=[
+    protected $channel_info_patterns=[
         'name'=>'/<div class="tgme_header_title">(.*?)<\/div>/is',
-        'count_memmber'=>'/<span class="counter_value">(.*?)<\/span> <span class="counter_type">members<\/span>/is',
-        'count_link'=>'/videos.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">links<\/span>/is',
-        'count_video'=>'/photos.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">videos<\/span>/is',
-        'count_photo'=>'/members.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">photos<\/span>/is',
+        'memmbercount'=>'/<span class="counter_value">(.*?)<\/span> <span class="counter_type">members<\/span>/is',
+        'linkcount'=>'/videos.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">links<\/span>/is',
+        'videocount'=>'/photos.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">videos<\/span>/is',
+        'photocount'=>'/members.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">photos<\/span>/is',
         'description'=>'/  <meta name="twitter:description" content="(.*?)">/is',
         'bubbles'=>'/(<div class="tgme_widget_message_wrap js-widget_message_wrap.*?">.*?datetime.*?<\/div>)/ms',
-        'image'=>'/<meta property="og:image" content="(.*?)">/is'
+        'image'=>'/<meta property="og:image" content="(.*?)">/is',
+    ];
+    protected $messaeg_patterns=[
+        'id'=>'/class="tgme_widget_message_date".*?href="https:\/\/t\.me\/telegram\/([0-9]+)/ism',
+        'date'=>'/<time datetime="(.*?)">[0-9:]+<\/time>/is',
+        'views'=>'/class="tgme_widget_message_views">(.*?)<\/span>/ms',
+        'text'=>'/class="tgme_widget_message_text js-message_text".*?>(.*?)<\/div>/is',
     ];
     public function __construct($httpClient=null)
     {
@@ -31,68 +37,58 @@ class TlgScrapper
         $username=$this->normalizer->username($username);
         $url=sprintf('https://t.me/s/%s',$username);
         $this->rawContent=$this->client->get($url)->getBody()->getContents();
+        $this->prepareChannelContent();
         return $this;
     }
-    public function getName()
+    public function prepareChannelContent()
     {
-        return $this->preg('name')[1];
+        foreach ($this->channel_info_patterns as $key => $value) {
+            preg_match($this->channel_info_patterns[$key],$this->rawContent,$matches);
+            $this->info[$key]=$matches[1];
+        }
     }
-    public function getMemmberCount()
+    public function __call($method,$params)
     {
-        return $this->preg('count_memmber')[1];
+        if(method_exists($this,$method))
+        {
+            return $this->$method(...$params);
+        }
+        $key=strtolower(substr($method,3));
+        if(array_key_exists($key,$this->info))
+        {
+            return $this->info[$key];
+        }
     }
-    public function getVideoCount()
-    {
-        return $this->preg('count_video')[1];
-    }
+    
     public function getDescription()
     {
-        return str_replace("\n",'',$this->preg('description')[1]);
-    }
-    public function getLinkCount()
-    {
-        return $this->preg('count_link')[1];
-    }
-    public function getPhotoCount()
-    {
-        return $this->preg('count_photo')[1];
-    }
-    public function getImage()
-    {
-        return $this->preg('image')[1];
+        return str_replace("\n",'',$this->info['description']);
     }
     public function getMessages()
     {
-        preg_match_all($this->patterns['bubbles'],$this->rawContent,$matches);
+        preg_match_all($this->channel_info_patterns['bubbles'],$this->rawContent,$matches);
         foreach ($matches[1] as $key => $value) {
             $result[]=$this->parseMessage($value);
         }
         return new Collection($result);
     }
-    public function preg($key)
-    {
-        preg_match($this->patterns[$key],$this->rawContent,$matches);
-        return $matches; 
-    }
+    
     public function parseMessage($message)
     {
         $result=[];
         // id
-        $id='/class="tgme_widget_message_date".*?href="https:\/\/t\.me\/telegram\/([0-9]+)/ism';
-        preg_match($id,$message,$res);
+        $patterns=$this->messaeg_patterns;
+        preg_match($patterns['id'],$message,$res);
         $result['id']=(int) $res[1];
         // get date
-        $date='/<time datetime="(.*?)">[0-9:]+<\/time>/is';
-        preg_match($date,$message,$res);
+        preg_match($patterns['date'],$message,$res);
         $result['date']['date']=$res[1];
         $result['date']['unix']=strtotime($res[1]);
         // get viws
-        $view='/class="tgme_widget_message_views">(.*?)<\/span>/ms';
-        preg_match($view,$message,$res);
+        preg_match($patterns['views'],$message,$res);
         $result['views']=$res[1] ?? "";
         // text
-        $text='/class="tgme_widget_message_text js-message_text".*?>(.*?)<\/div>/is';
-        preg_match($text,$message,$res);
+        preg_match($patterns['text'],$message,$res);
         $result['text']=strip_tags(trim(preg_replace('/\s\s+/', ' ', html_entity_decode($res[1]??"",ENT_QUOTES))));
         return new Message($result);
     }
