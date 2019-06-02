@@ -35,12 +35,11 @@ class TlgScrapper
         $this->client=$httpClient;
         $this->normalizer=new Normalizer();
     }
-    public function load($username,$before=null)
+    public function load($username)
     {
         $username=$this->normalizer->username($username);
         $this->username=$username;
-        $before=$before==null ? null : '?before='.$before ;
-        $url=sprintf('https://t.me/s/%s'.$before,$username);
+        $url=sprintf('https://t.me/s/%s',$username);
         $this->rawContent=$this->client->get($url)->getBody()->getContents();
         $this->prepareChannelContent();
         return $this;
