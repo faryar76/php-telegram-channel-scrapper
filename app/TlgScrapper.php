@@ -7,18 +7,21 @@ class TlgScrapper
 {
     protected $rawContent;
     protected $client;
+    protected $retryOnEagerLoad=1;
+    protected $username;
+    protected $messages=[];
     protected $channel_info_patterns=[
         'name'=>'/<div class="tgme_header_title">(.*?)<\/div>/is',
         'memmbercount'=>'/<span class="counter_value">(.*?)<\/span> <span class="counter_type">members<\/span>/is',
         'linkcount'=>'/videos.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">links<\/span>/is',
         'videocount'=>'/photos.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">videos<\/span>/is',
         'photocount'=>'/members.*?<span class="counter_value">(.*?)<\/span> <span class="counter_type">photos<\/span>/is',
-        'description'=>'/  <meta name="twitter:description" content="(.*?)">/is',
+        'description'=>'/  <meta name="twitter:description" content="(.*?)"/is',
         'bubbles'=>'/(<div class="tgme_widget_message_wrap js-widget_message_wrap.*?">.*?datetime.*?<\/div>)/ms',
         'image'=>'/<meta property="og:image" content="(.*?)">/is',
     ];
     protected $messaeg_patterns=[
-        'id'=>'/class="tgme_widget_message_date".*?href="https:\/\/t\.me\/telegram\/([0-9]+)/ism',
+        'id'=>'/class="tgme_widget_message_date".*?href="https:\/\/t\.me\/.*?\/([0-9]+)/ism',
         'date'=>'/<time datetime="(.*?)">[0-9:]+<\/time>/is',
         'views'=>'/class="tgme_widget_message_views">(.*?)<\/span>/ms',
         'text'=>'/class="tgme_widget_message_text js-message_text".*?>(.*?)<\/div>/is',
@@ -32,10 +35,12 @@ class TlgScrapper
         $this->client=$httpClient;
         $this->normalizer=new Normalizer();
     }
-    public function load($username)
+    public function load($username,$before=null)
     {
         $username=$this->normalizer->username($username);
-        $url=sprintf('https://t.me/s/%s',$username);
+        $this->username=$username;
+        $before=$before==null ? null : '?before='.$before ;
+        $url=sprintf('https://t.me/s/%s'.$before,$username);
         $this->rawContent=$this->client->get($url)->getBody()->getContents();
         $this->prepareChannelContent();
         return $this;
@@ -59,20 +64,48 @@ class TlgScrapper
             return $this->info[$key];
         }
     }
-    
+    public function getInfo()
+    {
+        return $this->info;
+    }
     public function getDescription()
     {
         return str_replace("\n",'',$this->info['description']);
     }
-    public function getMessages()
+    protected function spliteMessages()
     {
         preg_match_all($this->channel_info_patterns['bubbles'],$this->rawContent,$matches);
-        foreach ($matches[1] as $key => $value) {
-            $result[]=$this->parseMessage($value);
+        foreach ($matches[1] as $value) {
+            $this->messages[$this->parseMessage($value)->id]=$this->parseMessage($value);
         }
-        return new Collection($result);
+        return $this->messages;
     }
-    
+    public function eagerLoad($before)
+    {
+        $before=$before==null ? null : '?before='.$before ;
+        $url=sprintf('https://t.me/s/%s'.$before,$this->username);
+        $this->rawContent=$this->client->get($url)->getBody()->getContents();
+        return $this;
+    }
+    public function getMessages($id=null,$try=0)
+    {
+
+        $result=$this->spliteMessages();
+        if(!$id)
+        {
+            return new Collection(array_values($result));
+        }
+        if(array_key_exists($id,$result))
+        {
+            return $result[$id];
+        }
+        if($try >= $this->retryOnEagerLoad)
+        {
+            return [];
+        }
+        $this->eagerLoad($id+1);
+        return $this->getMessages($id,$try+1);
+    }    
     public function parseMessage($message)
     {
         $result=[];

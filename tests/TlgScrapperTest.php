@@ -18,7 +18,7 @@ class TlgScrapperTest extends TestCase
     protected function setUp():void
     {
         $mock = new MockHandler([
-            new Response(200,[],file_get_contents(__DIR__."/file")),
+            new Response(200,[],file_get_contents(__DIR__."/data/file")),
         ]);
         
         $handler = HandlerStack::create($mock);
@@ -127,6 +127,33 @@ class TlgScrapperTest extends TestCase
     {
         $this->main->load('@telegram');
         $image=$this->main->getImage();
-        $this->assertTrue(true);
+        $this->assertIsString($image);
     }
+    /**
+     * @test
+     */
+    public function test_a_user_can_get_a_message_using_id()
+    {
+        $this->main->load('@telegram');
+        $message=$this->main->getMessages(105);
+        $this->assertEquals(105,$message->id);
+    }
+    /**
+     * @test
+     */
+    public function test_a_user_can_get_a_message_using_id_with_reload_another_page()
+    {
+        $mock = new MockHandler([
+            new Response(200,[],file_get_contents(__DIR__."/data/file")),
+            new Response(200,[],file_get_contents(__DIR__."/data/file2")),
+        ]);
+        
+        $handler = HandlerStack::create($mock);
+        $client = new Client(['handler' => $handler]);
+        $this->main=new TlgScrapper($client=$client);
+        $this->main->load('@telegram');
+        $message=$this->main->getMessages(9);
+        $this->assertEquals(9,$message->id);
+    }
+    
 }
