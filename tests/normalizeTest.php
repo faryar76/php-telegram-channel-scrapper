@@ -1,4 +1,4 @@
-channelNamenormalizeTest<?php 
+<?php 
 
 use PHPUnit\Framework\TestCase;
 use Faryar76\Normalizer;
